@@ -1,1 +1,1 @@
-# merchant-recommender-system
+# README
